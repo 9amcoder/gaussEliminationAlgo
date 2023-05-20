@@ -201,6 +201,9 @@ function App() {
           <div id="outputX">{JSON.stringify(x)}</div>
         </div>
       )}
+      <div className="footer">
+        <p>© 2023 McMaster University -SFWRTECH 4MA3 - Steve Sultan</p>
+      </div>
     </div>
   );
 }

@@ -55,3 +55,9 @@ button {
   padding: 10px;
   white-space: pre-wrap;
 }
+
+.footer {
+  margin-top: 5px;
+  color: #888;
+  font-size: 0.9em;
+}
